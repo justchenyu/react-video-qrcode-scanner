@@ -21,6 +21,6 @@ A simple and elegant QR code scanner built with React, TypeScript, and Tailwind 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourSwiftie2023/react-video-qrcode-scanner.git
+   git clone https://github.com/justchenyu/react-video-qrcode-scanner.git
    cd react-video-qrcode-scanner
    ```
